@@ -1,0 +1,19 @@
+b{
+    color:red;
+}
+.checked{
+   
+      color:orange;
+}
+.tabsty{
+    text-align: center;
+    table-layout: fixed;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style:none;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
